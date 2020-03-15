@@ -119,6 +119,8 @@ Dit zou ik op kunnen lossen door gebruik te maken van afbeeldingen van een minde
 
 Mijn gehele website (behalve de h1 aan de bovenkant van de pagina) wordt via JavaScript gerenderd. Hierdoor laat het dus niets zien wanneer men niet de beschikking heeft tot JavaScript.
 
+INSERT AFBEELDING
+
 ### Oplossing
 
 Om te beginnen zou ik het keuzemenu aan het begin meteen in de html zetten, zodat deze ook zonder html geladen wordt. De applicatie is een client side render applicatie. Men kan de applicatie ook omzetten naar een server-side applicatie.
@@ -129,17 +131,23 @@ Om te beginnen zou ik het keuzemenu aan het begin meteen in de html zetten, zoda
 
 ## Browsers
 
+Iedere browser werkt anders. Een goed voorbeeld hiervan is met het werkbaar maken van nieuwe CSS features. Deze zijn soms niet te gebruiken in bepaalde browsers en soms via prefixes. Op de website [Can I use?](caniuse.com) kan men controleren of een CSS propertie werkt in verschillende browsers. Men kan gebruik maken van de query support om een bepaalde CSS propertie alleen te gebruiken wanneer de browser deze ook daadwerkelijk ondersteund.
+
 ## 1. Chrome
 
-### Oplossing
+Tijdens het bouwen van de webapplicatie heb ik Chrome gebruikt. In Chrome werkt alles goed.
 
-## 2. FireFox
+## 2. Firefox
 
-### Oplossing
+In Firefox werkt alles hetzelfde.
+
+INSERT AFBEELDING
 
 ## 3. Safari
 
-### Oplossing
+Ook in Safari werkt de web applicatie op dezelfde manier.
+
+INSERT AFBEELDING
 
 ## Screenreader
 
