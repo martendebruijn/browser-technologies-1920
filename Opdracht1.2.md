@@ -133,23 +133,31 @@ Om te beginnen zou ik het keuzemenu aan het begin meteen in de html zetten, zoda
 
 Iedere browser werkt anders. Een goed voorbeeld hiervan is met het werkbaar maken van nieuwe CSS features. Deze zijn soms niet te gebruiken in bepaalde browsers en soms via prefixes. Op de website [Can I use?](caniuse.com) kan men controleren of een CSS propertie werkt in verschillende browsers. Men kan gebruik maken van de query support om een bepaalde CSS propertie alleen te gebruiken wanneer de browser deze ook daadwerkelijk ondersteund.
 
-## 1. Chrome
+## Chrome
 
 Tijdens het bouwen van de webapplicatie heb ik Chrome gebruikt. In Chrome werkt alles goed.
 
-## 2. Firefox
+## Firefox
 
 In Firefox werkt alles hetzelfde.
 
-INSERT AFBEELDING
+![Keuzemenu Firefox](/img/firefox-1)
+![Overview pagina Firefox](/img/firefox-2)
 
-## 3. Safari
+## Safari
 
 Ook in Safari werkt de web applicatie op dezelfde manier.
 
-INSERT AFBEELDING
+![Keuzemenu Safari](/img/safari-1)
+![Overview pagina Safari](/img/safari-2)
 
 ## Screenreader
+
+Om de screenreader te testen heb ik de standaard screenreader van Apple gebruikt. Dit werkte verassend goed. Alles werd voorgelezen. Het enige lastige was dat als men op de overview pagina op de titel van een kunstobject drukt de gebruiker meteen door wordt gestuurd naar de detail pagina, waardoor de overview pagina minder goed te navigeren is. Deze titels worden echter wel voorgelezen wanneer men tab gebruikt i.p.v. erop te klikken.
+
+### Oplossing
+
+Men kan ervoor zorgen dat alles netjes wordt voorgelezen door de screenreader door gebruik te maken van semantische HTML structuur.
 
 <!-- ### Criteria
 
