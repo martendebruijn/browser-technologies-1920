@@ -2,7 +2,7 @@
 
 ## Opdracht 1.2 - Fork je OBA
 
-Deze opdracht heb ik vanwege ziekte gemist. Omdat ik geen drie verschillende devices tot mijn beschikking heb, kan ik daar niet op testen.
+Deze opdracht heb ik vanwege ziekte gemist. Omdat ik geen drie verschillende devices tot mijn beschikking heb (alleen mijn MacBook en iPhone, maar op beide werkt de app en is er niet veel verschil), kan ik daar niet op testen.
 
 Ik heb getest op mijn [web applicatie van WAFS](https://github.com/martendebruijn/web-app-from-scratch-1920).
 
@@ -16,7 +16,12 @@ Ik heb getest op mijn [web applicatie van WAFS](https://github.com/martendebruij
 
 Als ik via de [Web Developer Extentie](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) de afbeeldingen uitzet, worden de afbeeldingen niet meer weergeven, maar i.p.v. de alt tekst. De app zelf werkt.
 
+##### Overview pagina zonder afbeeldingen
+
 ![Overview page without img](/img/overview-without-img.png)
+
+##### Detail pagina zonder afbeeldingen
+
 ![Detail page without img](/img/detail-without-img.png)
 
 ### Oplossing
@@ -119,7 +124,9 @@ Dit zou ik op kunnen lossen door gebruik te maken van afbeeldingen van een minde
 
 Mijn gehele website (behalve de h1 aan de bovenkant van de pagina) wordt via JavaScript gerenderd. Hierdoor laat het dus niets zien wanneer men niet de beschikking heeft tot JavaScript.
 
-INSERT AFBEELDING
+##### De webapp zonder JavaScript
+
+![Without JavaScript](/img/without-js.png)
 
 ### Oplossing
 
@@ -141,14 +148,24 @@ Tijdens het bouwen van de webapplicatie heb ik Chrome gebruikt. In Chrome werkt 
 
 In Firefox werkt alles hetzelfde.
 
+##### Keuzemenu Firefox
+
 ![Keuzemenu Firefox](/img/firefox-1)
+
+##### Overview pagina Firefox
+
 ![Overview pagina Firefox](/img/firefox-2)
 
 ## Safari
 
 Ook in Safari werkt de web applicatie op dezelfde manier.
 
+##### Keuzemenu Safari
+
 ![Keuzemenu Safari](/img/safari-1)
+
+##### Overview pagina Safari
+
 ![Overview pagina Safari](/img/safari-2)
 
 ## Screenreader
