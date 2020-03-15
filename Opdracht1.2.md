@@ -150,11 +150,11 @@ In Firefox werkt alles hetzelfde.
 
 ##### Keuzemenu Firefox
 
-![Keuzemenu Firefox](/img/firefox-1)
+![Keuzemenu Firefox](/img/firefox-1.png)
 
 ##### Overview pagina Firefox
 
-![Overview pagina Firefox](/img/firefox-2)
+![Overview pagina Firefox](/img/firefox-2.png)
 
 ## Safari
 
@@ -162,11 +162,11 @@ Ook in Safari werkt de web applicatie op dezelfde manier.
 
 ##### Keuzemenu Safari
 
-![Keuzemenu Safari](/img/safari-1)
+![Keuzemenu Safari](/img/safari-1.png)
 
 ##### Overview pagina Safari
 
-![Overview pagina Safari](/img/safari-2)
+![Overview pagina Safari](/img/safari-2.png)
 
 ## Screenreader
 
