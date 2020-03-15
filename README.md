@@ -39,20 +39,10 @@ Ikzelf heb geen drie verschillende devices terbeschikking, hierdoor kan ik daar 
 Onderstaand mijn bevindingen op de acht features en de screenreader:
 [Klik hier om opdracht 1.2 te zien](./Opdracht1.2.md)
 
-#### Afbeeldingen uitzetten
-
-#### Custom Fonts uitzetten
-
-#### Kleuren uitzetten & kleurenblindheid instellen
-
-#### Muis/Trackpad werkt niet
-
-#### Breedband internet uitzetten
-
-#### JavaScript volledig uitzetten
-
-#### Cookies niet accepteren
-
-#### LocalStorage doet het niet
-
 ## Sources
+
+## To Do
+
+- [ ] LocalStorage + cookies van opdracht 1.2
+- [ ] Indien mogelijk testen op 3 devices van opdracht 1.2
+- [ ] Notities van artikelen toevoegen
