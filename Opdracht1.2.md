@@ -33,6 +33,20 @@ Een oplossing voor wanneer custom fonts niet laden / zijn uitgezet, zijn het geb
 
 ## 3. Kleur en kleurenblindheid
 
+### Kleur
+
+Leesbaarheid is belangrijk, de leesbaarheid hangt onderandere erg af van het contrast tussen de kleur van de achtergrond en die van de voorgrond. Dit kan men testen m.b.v. websites als:
+[Hele pagina - Check My Colours](https://www.checkmycolours.com/)
+[Kleuren tester (handige tool voor bij het ontwerpen) - Colorable](https://colorable.jxnblk.com/)
+
+Wanneer ik mijn web applicatie in de checkmycolours zet, komt eruit dat al mijn elementen een goed contrast heeft.
+
+### Oplossing
+
+Een oplossing voor wanneer dit niet het geval zou zijn, is het ervoor zorgen dat de voorgrondkleur en achtergrondkleur beter op elkaar zijn afgestemd en een betere contrast ratio heeft.
+
+### Kleurenblindheid
+
 Met de [Colorblinding Extentie](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related) kan men testen hoe zijn website eruit ziet als men kleurenblind is. Met deze extentie heb je verschillende vormen van kleurenblind zijn. Iedere kleurenblindheid modus had effect op mijn web applicatie. Hoewel degehele website goed leesbaar blijft in iedere modus, worden de kleuren van het beginscherm anders.
 
 ##### ColorBlinding menu
@@ -87,15 +101,27 @@ FE: bij het keuzemenu 'Rood:' en kleurwaardes gebruiken. En bij de overviewpagin
 
 ## 4. Muis en trackpad werkt niet
 
+Het keuzemenu werkt wél zonder muis, maar de gebruiker ziet niet dat een van de sliders geselecteerd zijn, waardoor het lastig is voor de gebruiker om te weten dat hij of zij de slider heeft geselecteerd. De overview- en detailpagina zijn prima te gebruiken met alleen het keyboard.
+
 ### Oplossing
+
+Wanneer niet het geval is dat je web app / website goed werkt zonder muis of trackpad, kan men gebruik maken van keyframes. 'keypress'
 
 ## 5. Breedband internet uitzetten
 
+Als men op een traag netwerk zit, wordt wanneer de app aan het laden is een loader getoont. Daarna laad hij de overzichtpagina, zonder afbeeldingen, prima. Om de afbeeldingen te laden heeft hij erg veel tijd voor nodig.
+
 ### Oplossing
+
+Dit zou ik op kunnen lossen door gebruik te maken van afbeeldingen van een mindere grootte. Ook zou ik gebruik kunnen maken van zogenoemde lazyloading. Bij lazyloading wordt eerst de content geladen en daarna pas de afbeeldingen.
 
 ## 6. Javascript (volledig)
 
+Mijn gehele website (behalve de h1 aan de bovenkant van de pagina) wordt via JavaScript gerenderd. Hierdoor laat het dus niets zien wanneer men niet de beschikking heeft tot JavaScript.
+
 ### Oplossing
+
+Om te beginnen zou ik het keuzemenu aan het begin meteen in de html zetten, zodat deze ook zonder html geladen wordt. De applicatie is een client side render applicatie. Men kan de applicatie ook omzetten naar een server-side applicatie.
 
 ## 7. LocalStorage en Cookies uitschakelen
 
