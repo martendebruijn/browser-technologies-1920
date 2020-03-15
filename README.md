@@ -4,8 +4,8 @@
 
 - [Beschrijving](#Beschrijving)
 - [Eerste week](#Eerste-week)
-- [Opdracht 1.1](#Opdracht-1.1)
-- [Opdracht 1.2](#Opdracht-1.2)
+- [Opdracht 1.1](#Opdracht-1-1)
+- [Opdracht 1.2](#Opdracht-1-2)
 - [Sources](#Sources)
 
 ## Beschrijving
@@ -14,7 +14,7 @@
 
 De eerste week heb ik vanwege ziekte gemist. Hierdoor moest ik redelijk wat inhalen.
 
-## Opdracht 1.1
+## Opdracht 1 1
 
 Voor opdacht 1.1 gingen we in een groep van 6 personen de volgende feauters onderzoeken:
 
@@ -31,7 +31,7 @@ Van deze acht features koos ieder er twee van uit. Ik had gekozen voor het onder
 Onderstaand mijn bevindingen:
 [Klik hier om opdracht 1.1 te zien](https://docs.google.com/document/d/128x_LR8zDgjvu3Zrsb7W7hcFAwpflvkb3XDdwv75d7c/edit?usp=sharing)
 
-## Opdracht 1.2
+## Opdracht 1 2
 
 Vanwege ziekte kon ik niet bij deze opdracht bij zijn. Bij deze opdracht moest men individueel alle acht de features testen op Chrome, Firefox en een andere browser. Daarnaast werd er ook getest op drie verschillende devices.
 
