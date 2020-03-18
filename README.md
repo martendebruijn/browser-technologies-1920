@@ -4,8 +4,8 @@
 
 - [Beschrijving](#Beschrijving)
 - [Eerste week](#Eerste-week)
-- [Opdracht 1.1](#Opdracht-1-1)
-- [Opdracht 1.2](#Opdracht-1-2)
+- [Opdrachten](#opdrachten)
+  - [Opdracht 2](#Opdracht-2)
 - [Sources](#Sources)
 
 ## Beschrijving
@@ -14,30 +14,13 @@
 
 De eerste week heb ik vanwege ziekte gemist. Hierdoor moest ik redelijk wat inhalen.
 
-## Opdracht 1 1
+## Opdrachten
 
-Voor opdacht 1.1 gingen we in een groep van 6 personen de volgende feauters onderzoeken:
+De opdrachten staan in de wiki van deze repo.
 
-- Afbeeldingen uitzetten
-- Custom Fonts uitzetten
-- Kleuren uitzetten & kleurenblindheid instellen
-- Muis/Trackpad werkt niet
-- Breedband internet uitzetten
-- JavaScript volledig uitzetten
-- Cookies niet accepteren
-- LocalStorage doet het niet
+### Opdracht 2
 
-Van deze acht features koos ieder er twee van uit. Ik had gekozen voor het onderzoeken van het uitzetten van JavaScript en als LocalStorage het niet doet.
-Onderstaand mijn bevindingen:
-[Klik hier om opdracht 1.1 te zien](https://docs.google.com/document/d/128x_LR8zDgjvu3Zrsb7W7hcFAwpflvkb3XDdwv75d7c/edit?usp=sharing)
-
-## Opdracht 1 2
-
-Vanwege ziekte kon ik niet bij deze opdracht bij zijn. Bij deze opdracht moest men individueel alle acht de features testen op Chrome, Firefox en een andere browser. Daarnaast werd er ook getest op drie verschillende devices.
-
-Ikzelf heb geen drie verschillende devices terbeschikking, hierdoor kan ik daar niet op testen.
-Onderstaand mijn bevindingen op de acht features en de screenreader:
-[Klik hier om opdracht 1.2 te zien](./Opdracht1.2.md)
+[Repo opdracht 2](https://github.com/martendebruijn/Browser-Technologies-Opdracht-2)
 
 ## Sources
 
